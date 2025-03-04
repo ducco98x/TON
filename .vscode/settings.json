@@ -1,0 +1,7 @@
+{
+    "[plaintext]": {
+        "files.autoSave": "onFocusChange"
+    },
+    "workbench.cloudChanges.continueOn": "prompt",
+    "workbench.experimental.cloudChanges.autoStore": "onShutdown"
+}
